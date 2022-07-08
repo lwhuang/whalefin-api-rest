@@ -2,13 +2,13 @@
 
     npm install github:lwhuang/whalefin-api-rest
 
-API wrapper for the [whalefin REST API](https://pro.whalefin.com/apidoc/). Please refer to [their documentation](https://pro.whalefin.com/apidoc/) for all calls explained. Check out `sample.js` for lib usage.
+API wrapper for the [whalefin REST API](https://pro.whalefin.com/apidoc/). Please refer to [their documentation](https://pro.whalefin.com/apidoc/) for all calls explained. Check out `example.js` for lib usage.
 
 This is a fork based of  library: https://github.com/askmike/ftx-api-rest
 
 ## Usage
 
-See sample.js.
+See example.js.
 
 ```
 const WhalefinRest = require('whalefin-api-rest');
